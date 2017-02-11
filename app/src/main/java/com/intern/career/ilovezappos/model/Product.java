@@ -3,7 +3,7 @@ package com.intern.career.ilovezappos.model;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 /**
- * Created by Home on 2/7/17.
+ * Created by Prateek on 2/7/17.
  */
 
 import java.util.HashMap;
