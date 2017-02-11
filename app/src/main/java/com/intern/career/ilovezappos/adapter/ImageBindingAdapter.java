@@ -6,7 +6,7 @@ import android.widget.ImageView;
 import com.squareup.picasso.Picasso;
 
 /**
- * Created by Home on 2/9/17.
+ * Created by Prateek on 2/9/17.
  */
 
 public class ImageBindingAdapter {
