@@ -7,7 +7,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by Home on 2/8/17.
+ * Created by Prateek on 2/8/17.
  */
 
 public class ZapposApiClient {
