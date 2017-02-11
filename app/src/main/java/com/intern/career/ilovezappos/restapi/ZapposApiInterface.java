@@ -7,7 +7,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 /**
- * Created by Home on 2/9/17.
+ * Created by Prateek on 2/9/17.
  */
 
 public interface ZapposApiInterface {
