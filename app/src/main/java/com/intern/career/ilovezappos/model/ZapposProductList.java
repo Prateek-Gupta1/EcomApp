@@ -1,7 +1,7 @@
 package com.intern.career.ilovezappos.model;
 
 /**
- * Created by Home on 2/8/17.
+ * Created by Prateek on 2/8/17.
  */
 import java.util.List;
 import com.google.gson.annotations.Expose;
